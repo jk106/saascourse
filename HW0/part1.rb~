@@ -30,4 +30,3 @@ puts max_2_sum
 puts max_2_sum test_array
 puts sum_to_n? [],2
 puts sum_to_n? test_array,2
-puts sum_to_n? test_array,11
